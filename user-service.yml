@@ -4,3 +4,4 @@ server:
 spring:
   application:
     name: user-service
+    index: 0
