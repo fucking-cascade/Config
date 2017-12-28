@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="880754b6-76c7-4826-a123-585811fac36b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/user-info-service.yml" afterPath="$PROJECT_DIR$/user-info-service.yml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/user-service.yml" afterPath="$PROJECT_DIR$/user-service.yml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,11 +13,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="user-service.yml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="user-service.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/user-service.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="14" selection-end-column="48" />
+            <state relative-caret-position="150">
+              <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -37,7 +36,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="user-info-service.yml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="user-info-service.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/user-info-service.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
@@ -61,8 +60,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/zuul.yml" />
-        <option value="$PROJECT_DIR$/user-service.yml" />
         <option value="$PROJECT_DIR$/user-info-service.yml" />
+        <option value="$PROJECT_DIR$/user-service.yml" />
       </list>
     </option>
   </component>
@@ -221,12 +220,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1514360438374</updated>
-      <workItem from="1514360440408" duration="1335000" />
+      <workItem from="1514360440408" duration="1832000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1335000" />
+    <option name="totallyTimeSpent" value="1832000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="6" />
@@ -279,14 +278,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/user-service.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="14" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -302,6 +293,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="48" lean-forward="false" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user-service.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
           <folding />
         </state>
       </provider>
