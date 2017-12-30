@@ -7,7 +7,7 @@ spring:
     index: 0
   devtools:
     restart:
-      additionalPaths: src/main/java/org.latheild.userinfo
+      additionalPaths: src/main/java/org/latheild/userinfo
 
 eureka:
   instance:
