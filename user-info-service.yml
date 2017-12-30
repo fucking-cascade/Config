@@ -5,9 +5,6 @@ spring:
   application:
     name: user-info-service
     index: 0
-  devtools:
-    restart:
-      additionalPaths: src/main/java/org/latheild/userinfo
 
 eureka:
   instance:

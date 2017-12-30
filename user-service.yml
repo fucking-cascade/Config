@@ -5,9 +5,6 @@ spring:
   application:
     name: user-service
     index: 7
-  devtools:
-    restart:
-      additionalPaths: src/main/java/org/latheild/user
 
 eureka:
   instance:
