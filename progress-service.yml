@@ -1,0 +1,15 @@
+server:
+  port: 10005
+
+spring:
+  application:
+    name: progress-service
+    index: 0
+
+eureka:
+  instance:
+    hostname: localhost
+    instance-id: ${eureka.instance.hostname}:${server.port}
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8080/eureka/
